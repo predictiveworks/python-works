@@ -9,6 +9,14 @@ to provide technical hints in case of poorly documented open source libraries.
 
 This section introduces (visualization) results from projects related to open EO datasets.
 
+### Corine Land Cover (2018)
+
+Copernicus Land Monitoring Service for Italy's field detection and monitoring.
+
+![Corine 2018 Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/corine2018-overlay-for-carto.png)
+
+### Sentinel 3
+
 ![Sentinel-3 OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/sentinel-3-overlay-for-osm.png)
 
 ## New European Wind Atlas (NEWA)
@@ -25,3 +33,6 @@ The image below visualizes wind speeds in 100 m (above ground) in Germany.
 
 ![NEWA (100m) OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/newa-100m-overlay-for-osm.png)
 
+## Soil Moisture (DWD)
+
+This section introduces (visualization) results from recent smart agriculture projects.
