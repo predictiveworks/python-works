@@ -2,7 +2,7 @@
 # PythonWorks.
 
 Welcome to PredictiveWorks. *Python* branch. PythonWorks. has a strong focus on data science
-and illustrates recent project results. This repository was made to be helpful for other and
+and illustrates recent project results. This repository was made to be helpful for others and
 to provide technical hints in case of poorly documented open source libraries. 
 
 ## Earth Observation (EO)
