@@ -61,7 +61,7 @@ This section introduces (visualization) results from recent sustainability proje
 
 The image below visualizes the protected areas in Italy.
 
-![Protected Areas Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/protected-areas-overlay-for-carto.png)
+![Protected Areas Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/protected-areas-italy-overlay-for-carto.png)
 
 
 
