@@ -43,7 +43,7 @@ This section introduces (visualization) results from recent smart agriculture pr
 
 ### LoRaWAN Gateways (TTN)
 
-The image below visualizes the number of gateways per NUT-3 regions in Germany.
+The image below visualizes the number of gateways per NUTS-3 regions in Germany.
 
 ![LoRaWAN Gateways OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/lorawan-gateways-overlay-for-osm.png)
 
@@ -52,6 +52,18 @@ The image below visualizes the number of gateways per NUT-3 regions in Germany.
 The image below visualizes soil moisture in % nFK, Germany 2018-08.
 
 ![Soil Moisture Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/soil-moisture-2018-overlay-for-carto.png)
+
+## Sustainability Reporting
+
+This section introduces (visualization) results from recent sustainability projects.
+
+### Biodiversity
+
+The image below visualizes the protected areas in Italy.
+
+![Protected Areas Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/protected-areas-overlay-for-carto.png)
+
+
 
 
 
