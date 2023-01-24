@@ -41,7 +41,9 @@ The image below visualizes wind speeds in 100 m (above ground) in Germany.
 
 This section introduces (visualization) results from recent smart agriculture projects.
 
-### LoRaWAN Gateways (TTN, NUTS-2 Regions)
+### LoRaWAN Gateways (TTN)
+
+The image below visualizes the number of gateways per NUT-3 regions in Germany.
 
 ![LoRaWAN Gateways OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/lorawan-gateways-overlay-for-osm.png)
 
