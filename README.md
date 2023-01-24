@@ -41,6 +41,10 @@ The image below visualizes wind speeds in 100 m (above ground) in Germany.
 
 This section introduces (visualization) results from recent smart agriculture projects.
 
+### LoRaWAN Gateways (TTN, NUTS-2 Regions)
+
+![LoRaWAN Gateways OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/lorawan-gateways-overlay-for-osm.png)
+
 ### Soil Moisture (DWD)
 
 The image below visualizes soil moisture in % nFK, Germany 2018-08.
