@@ -19,7 +19,11 @@ Copernicus Land Monitoring Service for Italy's field detection and monitoring.
 
 ![Sentinel-3 OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/sentinel-3-overlay-for-osm.png)
 
-## New European Wind Atlas (NEWA)
+## Smart Energy
+
+This section introduces (visualization) results from recent smart energy projects.
+
+### New European Wind Atlas (NEWA)
 
 This section leverages the NEWA Mesoscale Atlas. The mesoscale part of the New European Wind Atlas (NEWA) 
 was created from WRF model simulations for all of Europe at a grid spacing of 3 km x 3 km, initially covering
@@ -33,6 +37,15 @@ The image below visualizes wind speeds in 100 m (above ground) in Germany.
 
 ![NEWA (100m) OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/newa-100m-overlay-for-osm.png)
 
-## Soil Moisture (DWD)
+## Smart Agriculture
 
 This section introduces (visualization) results from recent smart agriculture projects.
+
+### Soil Moisture (DWD)
+
+The image below visualizes soil moisture in % nFK, Germany 2018-08.
+
+![Soil Moisture Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/soil-moisture-2018-overlay-for-carto.png)
+
+
+
