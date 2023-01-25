@@ -23,6 +23,14 @@ Copernicus Land Monitoring Service for Italy's field detection and monitoring.
 
 This section introduces (visualization) results from recent smart energy projects.
 
+### Solar Power Efficiency
+
+The image below illustrates the potential net power of private solar units, aggregated at German county level (left side).
+The net power distribution is compared to the spatial distribution of annual solar radiation (right side). As a result, there 
+is no spatial correlation of areas with high new power & radiation.
+
+![Solar Power vs Radiation OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/solar-power-vs-radiation-overlay-for-osm.png)
+
 ### New European Wind Atlas (NEWA)
 
 This section leverages the NEWA Mesoscale Atlas. The mesoscale part of the New European Wind Atlas (NEWA) 
