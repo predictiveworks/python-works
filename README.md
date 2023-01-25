@@ -47,6 +47,12 @@ The image below visualizes the number of gateways per NUTS-3 regions in Germany.
 
 ![LoRaWAN Gateways OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/lorawan-gateways-overlay-for-osm.png)
 
+### Drought Index (DWD)
+
+The image below visualizes drought index in mm/°C (de Martonne), Germany 2018-08.
+
+![Soil Moisture Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/drought-index-2018-overlay-for-carto.png)
+
 ### Soil Moisture (DWD)
 
 The image below visualizes soil moisture in % nFK, Germany 2018-08.
