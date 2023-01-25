@@ -27,7 +27,7 @@ This section introduces (visualization) results from recent smart energy project
 
 The image below illustrates the potential net power of private solar units, aggregated at German county level (left side).
 The net power distribution is compared to the spatial distribution of annual solar radiation (right side). As a result, there 
-is no spatial correlation of areas with high new power & radiation.
+is no spatial correlation of areas with high net power & radiation.
 
 ![Solar Power vs Radiation OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/solar-power-vs-radiation-overlay-for-osm.png)
 
