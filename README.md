@@ -77,7 +77,11 @@ The image below visualizes the protected areas in Italy.
 
 ![Protected Areas Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/protected-areas-italy-overlay-for-carto.png)
 
+### Water Risk
 
+The image below illustrates the annual water risk in Spain, originating from electric power industry.
+
+![Water Risk Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/water-risk-spain-overlay-for-carto.png)
 
 
 
