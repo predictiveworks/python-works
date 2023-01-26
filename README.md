@@ -79,7 +79,7 @@ The image below visualizes the protected areas in Italy.
 
 ### Water Risk
 
-The image below illustrates the annual water risk in Spain, originating from electric power industry. The risk iis normalized
+The image below illustrates the annual water risk in Spain for the electric power industry. The risk is normalized
 according to the following categories: Low (0, 1), Low-Medium (1, 2), Medium-High (2, 3), High (3, 4), Extremely High (4, 5).
 
 ![Water Risk Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/annual-water-risk-spain-overlay-for-carto.png)
