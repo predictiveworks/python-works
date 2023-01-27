@@ -23,6 +23,12 @@ Copernicus Land Monitoring Service for Italy's field detection and monitoring.
 
 This section introduces (visualization) results from recent smart energy projects.
 
+### Coal Power Plants
+
+The image below illustrates the capacity in MW of active coal fueled power plants in Europe.
+
+![Coal Power Plants Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/coal-plants-europe-overlay-for-carto.png)
+
 ### Solar Power Efficiency
 
 The image below illustrates the potential net power of private solar units, aggregated at German county level (left side).
