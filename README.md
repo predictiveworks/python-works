@@ -1,16 +1,19 @@
 
-# PythonWorks.
+# PythonWorks.<a id="top"></a>
 
 Welcome to PredictiveWorks. *Python* branch. PythonWorks. has a strong focus on data science
 and illustrates recent project results. This repository was made to be helpful for others and
 to provide technical hints in case of poorly documented open source libraries. 
 
 * [Earth Observation](#eo)
+* [Geo Marketing](#gm)  
 * [Smart Agriculture](#sa)  
 * [Smart Energy](#se)
+* [Sustainability Reporting](#sr)
 
 ## Earth Observation (EO)<a id="eo"></a>
 
+[Top](#top)
 
 This section introduces (visualization) results from projects related to open EO datasets.
 
@@ -25,6 +28,8 @@ Copernicus Land Monitoring Service for Italy's field detection and monitoring.
 ![Sentinel-3 OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/sentinel-3-overlay-for-osm.png)
 
 ## Smart Energy<a id="se"></a>
+
+[Top](#top)
 
 This section introduces (visualization) results from recent smart energy projects.
 
@@ -58,6 +63,8 @@ The image below visualizes wind speeds in 100 m (above ground) in Germany.
 
 ## Smart Agriculture<a id="sa"></a>
 
+[Top](#top)
+
 This section introduces (visualization) results from recent smart agriculture projects.
 
 ### LoRaWAN Gateways (TTN)
@@ -78,7 +85,18 @@ The image below visualizes soil moisture in % nFK, Germany 2018-08.
 
 ![Soil Moisture Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/soil-moisture-2018-overlay-for-carto.png)
 
-## Sustainability Reporting
+## Geo Marketing<a id="gm"></a>
+
+### Population Age Distribution
+
+The image below illustrates the age distribution of German counties, elder persons (>= 60) on the left side, and children (<= 10)
+on the right side.
+
+![Population Age OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/population-age-overlay-for-osm.png)
+
+## Sustainability Reporting<a id="sr"></a>
+
+[Top](#top)
 
 This section introduces (visualization) results from recent sustainability projects.
 
