@@ -8,6 +8,7 @@ to provide technical hints in case of poorly documented open source libraries.
 * [Earth Observation](#eo)
 * [Geo Marketing](#gm)  
 * [Smart Agriculture](#sa)  
+* [Smart Building](#sb)  
 * [Smart Energy](#se)
 * [Sustainability Reporting](#sr)
 
@@ -85,9 +86,22 @@ The image below visualizes soil moisture in % nFK, Germany 2018-08.
 
 ![Soil Moisture Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/soil-moisture-2018-overlay-for-carto.png)
 
+## Smart Building<a id="sb"></a>
+
+[Top](#top)
+
+This section introduces (visualization) results from recent smart building projects.
+
+### Sensors as Graph Network
+
+![Sensors as Graph Network](https://github.com/predictiveworks/python-works/blob/main/images/building-sensor-network-3d.png)
+
 ## Geo Marketing<a id="gm"></a>
 
 [Top](#top)
+
+This section introduces (visualization) results from recent geo marketing projects. Geo-referenced socio-demographic, energy, 
+climate, behavior and regional trends data form an important basis for hyper-local customer segmentation. 
 
 ### Population Age Distribution
 
