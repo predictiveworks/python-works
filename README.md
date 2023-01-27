@@ -5,7 +5,12 @@ Welcome to PredictiveWorks. *Python* branch. PythonWorks. has a strong focus on 
 and illustrates recent project results. This repository was made to be helpful for others and
 to provide technical hints in case of poorly documented open source libraries. 
 
-## Earth Observation (EO)
+* Earth Observation(#eo)
+* Smart Agriculture(#sa)  
+* Smart Energy(#se)
+
+## Earth Observation (EO)<a id="eo"></a>
+
 
 This section introduces (visualization) results from projects related to open EO datasets.
 
@@ -19,7 +24,7 @@ Copernicus Land Monitoring Service for Italy's field detection and monitoring.
 
 ![Sentinel-3 OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/sentinel-3-overlay-for-osm.png)
 
-## Smart Energy
+## Smart Energy<a id="se"></a>
 
 This section introduces (visualization) results from recent smart energy projects.
 
@@ -51,7 +56,7 @@ The image below visualizes wind speeds in 100 m (above ground) in Germany.
 
 ![NEWA (100m) OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/newa-100m-overlay-for-osm.png)
 
-## Smart Agriculture
+## Smart Agriculture<a id="sa"></a>
 
 This section introduces (visualization) results from recent smart agriculture projects.
 
