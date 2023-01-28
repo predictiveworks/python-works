@@ -126,6 +126,13 @@ The image below visualizes the protected areas in Italy.
 
 ![Protected Areas Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/protected-areas-italy-overlay-for-carto.png)
 
+### Social Forensic Services
+
+The social dimension of sustainability reporting (e.g., to disclose global supplier relations) needs a world's eye
+on conflicts, human rights violation and more. The image below illustrates 15 minutes of the world's sentiment.
+
+![World Sentiment Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/world-sentiment-15min-overlay-for-carto.png)
+
 ### Water Risk
 
 The image below illustrates the annual water risk in Spain for the electric power industry. The risk is normalized
