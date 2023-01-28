@@ -9,6 +9,7 @@ to provide technical hints in case of poorly documented open source libraries.
 * [Geo Marketing](#gm)  
 * [Smart Agriculture](#sa)  
 * [Smart Building](#sb)  
+* [Smart City](#sc)  
 * [Smart Energy](#se)
 * [Sustainability Reporting](#sr)
 
@@ -99,6 +100,14 @@ This section introduces (visualization) results from recent smart building proje
 ### Sensors as Graph Network
 
 ![Sensors as Graph Network](https://github.com/predictiveworks/python-works/blob/main/images/building-sensor-network-3d.png)
+
+## Smart City<a id="sc"></a>
+
+[Top](#top)
+
+This section introduces (visualization) results from recent smart city projects.
+
+![Hamburg Buildings Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/hamburg-buildings-overlay-for-carto.png)
 
 ## Geo Marketing<a id="gm"></a>
 
