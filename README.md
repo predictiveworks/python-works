@@ -109,6 +109,8 @@ This section introduces (visualization) results from recent smart city projects.
 
 ![Hamburg Buildings Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/hamburg-buildings-overlay-for-carto.png)
 
+![Hamburg Buildings 3D Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/hamburg-buildings-3d-overlay-for-carto.png)
+
 ## Geo Marketing<a id="gm"></a>
 
 [Top](#top)
