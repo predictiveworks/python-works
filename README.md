@@ -33,6 +33,8 @@ Copernicus Land Monitoring Service for Italy's field detection and monitoring.
 
 ![GMTED2010 OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/topography-italy-gmted2010-overlay-for-osm.png)
 
+![EU-DEM Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/eu-cities-dem-overlay-for-carto.png)
+
 ## Smart Energy<a id="se"></a>
 
 [Top](#top)
