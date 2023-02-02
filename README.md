@@ -115,8 +115,7 @@ This section introduces (visualization) results from recent smart city projects.
 
 ![Hamburg Buildings 3D Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/hamburg-buildings-3d-overlay-for-carto.png)
 
-The image below illustrates the vegetation index (NDVI) of the city of Bern. The data were extracted
-from Sentinel-2 (relative orbit, 108).
+The image illustrates the vegetation index (NDVI) of the city of Bern. The data were extracted from Sentinel-2 (relative orbit, 108).
 
 ![Bern Sentinel-2 NDVI OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/bern-s2-ndvi-overlay-for-osm.png)
 
