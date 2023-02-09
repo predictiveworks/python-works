@@ -31,6 +31,8 @@ Copernicus Land Monitoring Service for Italy's field detection and monitoring.
 
 ### Topographic Maps
 
+![EU-DEM Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/topography-austria-copernicus-overlay-for-carto.png)
+
 ![GMTED2010 OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/topography-italy-gmted2010-overlay-for-osm.png)
 
 Selected list of 4 European NUTS 3 regions (Bern, Torino, Munich, Stuttgart) enriched with EU-DEM dataset.
