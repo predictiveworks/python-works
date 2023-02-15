@@ -121,9 +121,9 @@ This section introduces (visualization) results from recent smart city projects.
 
 ### Heat Zones (ECOSTRESS, Sentinel-2)
 
-![Heat Zone DEM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/earthdata-vienna-ecostress-dem.png)
+![Heat Zone DEM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/earthdata_vienna-ecostress-dem.png)
 
-![Heat Zone TCI Overlay](https://github.com/predictiveworks/python-works/blob/main/images/earthdata-vienna-ecostress-tci.png)
+![Heat Zone TCI Overlay](https://github.com/predictiveworks/python-works/blob/main/images/earthdata_vienna-ecostress-tci.png)
 
 ### Vegetation
 
