@@ -113,9 +113,19 @@ This section introduces (visualization) results from recent smart building proje
 
 This section introduces (visualization) results from recent smart city projects.
 
+### Buildings 
+
 ![Hamburg Buildings Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/hamburg-buildings-overlay-for-carto.png)
 
 ![Hamburg Buildings 3D Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/hamburg-buildings-3d-overlay-for-carto.png)
+
+### Heat Zones (ECOSTRESS, Sentinel-2)
+
+![Heat Zone DEM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/earthdata-vienna-ecostress-dem.png)
+
+![Heat Zone TCI Overlay](https://github.com/predictiveworks/python-works/blob/main/images/earthdata-vienna-ecostress-tci.png)
+
+### Vegetation
 
 The image illustrates the vegetation index (NDVI) of the city of Bern. The data were extracted from Sentinel-2 (relative orbit, 108).
 
