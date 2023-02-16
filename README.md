@@ -166,10 +166,9 @@ on conflicts, human rights violation and more. The image below illustrates 15 mi
 
 ### Water Risk
 
-The image below illustrates the annual water risk in Spain for the electric power industry. The risk is normalized
+The image shows the annual water risk in 4 European countries for the agricultural sector. The risk is normalized
 according to the following categories: Low (0, 1), Low-Medium (1, 2), Medium-High (2, 3), High (3, 4), Extremely High (4, 5).
 
-![Water Risk Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/annual-water-risk-spain-overlay-for-carto.png)
-
+![European Water Risk OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/annual-water-risk-europe-overlay-for-osm.png)
 
 
