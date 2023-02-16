@@ -85,8 +85,9 @@ The image below visualizes the number of gateways per NUTS-3 regions in Germany.
 
 ![LoRaWAN Gateways OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/lorawan-gateways-overlay-for-osm.png)
 
-The image shows the individual gateways for Vienna, Austria, as Digital Elevation Model (DEM) overlay. This map is part
-of a project that evaluates the usability of LoRaWAN technology for urban-near agriculture.
+The image shows the individual gateways for Vienna, Austria as an overlay for the Vienna elevation model (Copernicus DEM), 
+and the Vienna vegetation index (Sentinel. This map is part of a project that evaluates the usability of LoRaWAN technology 
+for urban-near agriculture.
 
 ![Vienna LoRaWAN Gateways](https://github.com/predictiveworks/python-works/blob/main/images/agritech_field-dem-lorawan.png)
 
