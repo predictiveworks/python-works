@@ -18,7 +18,7 @@ to provide technical hints in case of poorly documented open source libraries.
 
 [Top](#top)
 
-The June to August 2022 heatwave in action: Austria
+The June to August 2022 temperature distribution in Austria in action:
 
 https://user-images.githubusercontent.com/49725564/219854667-7b2bb2b8-f825-4483-9184-4b1025267a57.mp4
 
