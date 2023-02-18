@@ -20,7 +20,7 @@ to provide technical hints in case of poorly documented open source libraries.
 
 The June to August 2022 heatwave in action: Austria
 
-![Heatwave Austria](https://github.com/predictiveworks/python-works/blob/main/videos/heatwave-2022.mp4)
+https://user-images.githubusercontent.com/49725564/219854667-7b2bb2b8-f825-4483-9184-4b1025267a57.mp4
 
 ## Earth Observation (EO)<a id="eo"></a>
 
