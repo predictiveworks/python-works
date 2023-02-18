@@ -5,6 +5,7 @@ Welcome to PredictiveWorks. *Python* branch. PythonWorks. has a strong focus on 
 and illustrates recent project results. This repository was made to be helpful for others and
 to provide technical hints in case of poorly documented open source libraries. 
 
+* [Climate Change](#cc)
 * [Earth Observation](#eo)
 * [Geo Marketing](#gm)  
 * [Smart Agriculture](#sa)  
@@ -12,6 +13,14 @@ to provide technical hints in case of poorly documented open source libraries.
 * [Smart City](#sc)  
 * [Smart Energy](#se)
 * [Sustainability Reporting](#sr)
+
+## Climate Change (CC)<a id="cc"></a>
+
+[Top](#top)
+
+The June to August 2022 heatwave in action: Austria
+
+![Heatwave Austria](https://github.com/predictiveworks/python-works/blob/main/videos/heatwave-2022.mp4)
 
 ## Earth Observation (EO)<a id="eo"></a>
 
