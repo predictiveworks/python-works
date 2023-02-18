@@ -112,6 +112,12 @@ The image below visualizes soil moisture in % nFK, Germany 2018-08.
 
 ![Soil Moisture Carto Overlay](https://github.com/predictiveworks/python-works/blob/main/images/soil-moisture-2018-overlay-for-carto.png)
 
+### Multiple Vegetation Indexes (MSAVI, NDMI & NDVI)
+
+The image below shows multiple vegetation indexes for a summer day in Vienna, including the Sentinel-2 true color image.
+
+![Multiple Vegetation Indexes for Vienna](https://github.com/predictiveworks/python-works/blob/main/images/agritech_field-multiview-1200x800.png)
+
 ## Smart Building<a id="sb"></a>
 
 [Top](#top)
