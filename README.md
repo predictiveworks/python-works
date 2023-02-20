@@ -12,6 +12,7 @@ to provide technical hints in case of poorly documented open source libraries.
 * [Smart Building](#sb)  
 * [Smart City](#sc)  
 * [Smart Energy](#se)
+* [Smart Infrastructure](#si)  
 * [Sustainability Reporting](#sr)
 
 ## Climate Change (CC)<a id="cc"></a>
@@ -151,6 +152,15 @@ This section introduces (visualization) results from recent smart city projects.
 The image illustrates the vegetation index (NDVI) of the city of Bern. The data were extracted from Sentinel-2 (relative orbit, 108).
 
 ![Bern Sentinel-2 NDVI OSM Overlay](https://github.com/predictiveworks/python-works/blob/main/images/bern-s2-ndvi-overlay-for-osm.png)
+
+## Smart Infrastructure<a id="si"></a>
+
+[Top](#top)
+
+The image visualizes the LTE cell towers in Austria, Germany, Italy and Poland. It is based on OpenCelliD, the world's largest open database 
+of cell towers, which so far, is one of the most precise publicly available data sources for telecom-related projects.
+
+![LTE Cell Towers in European Cities](https://github.com/predictiveworks/python-works/blob/main/images/countries-ocid.png)
 
 ## Geo Marketing<a id="gm"></a>
 
