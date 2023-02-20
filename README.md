@@ -162,6 +162,8 @@ of cell towers, which so far, is one of the most precise publicly available data
 
 ![LTE Cell Towers in European Cities](https://github.com/predictiveworks/python-works/blob/main/images/countries-ocid.png)
 
+![LTE Cell Towers in Lower Bavaria](https://github.com/predictiveworks/python-works/blob/main/images/lower-bavaria-ocid.png)
+
 ## Geo Marketing<a id="gm"></a>
 
 [Top](#top)
